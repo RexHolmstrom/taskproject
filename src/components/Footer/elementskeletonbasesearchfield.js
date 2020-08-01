@@ -1,5 +1,5 @@
 import React from 'react'
-import "../searchbox/elementskeletonbasesearchfield.css"
+import "./elementskeletonbasesearchfield.css"
 
 const Elementssearchfieldlogo = props => (
     <div class="elementskeletonbasesearchfield">
