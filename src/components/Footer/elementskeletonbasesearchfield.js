@@ -8,35 +8,21 @@ const Elementssearchfieldlogo = props => (
 
 
         <div class="skeletonelements">
-            <div class="rectangle2">
-            </div>
-            <div class="rectangle21">
-            </div>
-            <div class="getstarted">
-                Get Started
-        </div>
-            <div class="aboutskilldar">
-                About Skilldar
-        </div>
-            <div class="privacy">
-                Privacy
-        </div>
-            <div class="terms">
-                Terms
-        </div>
+            <div class="rectangle2"></div>
+            <div class="rectangle21"></div>
+            <div class="getstarted">Get Started</div>
+            <div class="aboutskilldar">About Skilldar</div>
+            <a href="https://www.skilldar.com/terms-and-privacy"><div class="privacy terms">Terms Privacy</div></a>
 
 
 
             <div class="elementssearchfieldlogo">
-                <div class="background1">
-                </div>
+                <div class="background1"></div>
                 <div class="searchfield">
-                    <img src="./img/profile-details-------------searchcontainer.png"
-                        class="searchcontainer" />
+                    <img src="./img/profile-details-------------searchcontainer.png" class="searchcontainer" />
 
                     <div class="iconsearch">
-                        <a href="/"><img src="./img/search-results--filters-search---material@2x.png"
-                            class="searchmaterial" /></a>
+                        <a href="/"><img src="./img/search-results--filters-search---material@2x.png" class="searchmaterial" /></a>
                     </div>
 
                     <div class="search">
@@ -83,7 +69,7 @@ const Elementssearchfieldlogo = props => (
                 </div>
             </div>
         </div>
-    </div>
+    </div >
 );
 
 export default Elementssearchfieldlogo;
