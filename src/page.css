@@ -1,0 +1,43 @@
+.searchresultsfilters {
+    width               : 100%;
+    min-width           : 1440px;
+    height              : 100vh;
+    min-height          : 930px;
+    position            : relative;
+    overflow            : hidden;
+    margin              : 0px;
+    background-color    : rgba(42, 44, 47, 1.0);
+  }
+  a {
+    text-decoration     : none;
+  }
+  div {
+    -webkit-text-size-adjust: none;
+  }
+
+.page-wrap {
+    width: 1440px;
+    height: 100%;
+    position: relative;
+    margin: auto;
+    
+    
+}
+
+.searchresultsfilters .sortresults {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1094px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "SourceSansPro-SemiBold", Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  color               : rgba(175, 179, 181, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}

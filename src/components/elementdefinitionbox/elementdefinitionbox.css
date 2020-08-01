@@ -1,0 +1,127 @@
+.searchresultsfilters .elementdefinitionbox {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 128px;
+    height              : 65px;
+    width               : 690px;
+    position            : absolute;
+    margin              : 0;
+    left                : 375px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .elementdefinitionbox .background {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 65px;
+    width               : 690px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .elementdefinitionbox .elementdefinitionbox1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 65px;
+    width               : 690px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .elementdefinitionbox .elementdefinitionbox1 .boxskillsummary {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 9px;
+    height              : 56px;
+    width               : 690px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    border-radius       : 3px;
+    border-style        : solid;
+    border-width        : 1px;
+    border-color        : rgba(74, 73, 74, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .elementdefinitionbox .elementdefinitionbox1 .rectangle5 {
+    background-color    : rgba(42, 44, 47, 1.0);
+    top                 : 5px;
+    height              : 10px;
+    width               : 70px;
+    position            : absolute;
+    margin              : 0;
+    left                : 28px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .elementdefinitionbox .elementdefinitionbox1 .description {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 20px;
+    height              : auto;
+    width               : 631px;
+    position            : absolute;
+    margin              : 0;
+    left                : 28px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.9;
+    font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(237, 22, 55, 1.0);
+    text-align          : left;
+    line-height         : 18.0px;
+  }
+  .searchresultsfilters .elementdefinitionbox .elementdefinitionbox1 .title {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : auto;
+    width               : 70px;
+    position            : absolute;
+    margin              : 0;
+    left                : 29px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Source Sans Pro", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(176, 179, 181, 1.0);
+    text-align          : center;
+    line-height         : 18.0px;
+  }
+  .searchresultsfilters .rectangle13 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 12px;
+    height              : 23px;
+    width               : 136px;
+    position            : absolute;
+    margin              : 0;
+    left                : 18px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .rectangle14 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 68px;
+    height              : 38px;
+    width               : 216px;
+    position            : absolute;
+    margin              : 0;
+    left                : 355px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }

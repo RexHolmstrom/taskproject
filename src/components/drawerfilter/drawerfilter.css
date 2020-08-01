@@ -1,0 +1,341 @@
+.searchresultsfilters .drawerfilter4pcs {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 272px;
+    height              : 149px;
+    width               : 154px;
+    position            : absolute;
+    margin              : 0;
+    left                : 1093px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .background {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 2px;
+    height              : 149px;
+    width               : 150px;
+    position            : absolute;
+    margin              : 0;
+    left                : 2px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 149px;
+    width               : 154px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .rectangle5copy9 {
+    background-color    : rgba(47, 50, 54, 1.0);
+    top                 : 24px;
+    height              : 127px;
+    width               : 150px;
+    position            : absolute;
+    margin              : 0;
+    left                : 2px;
+    border-radius       : 6px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .rectangle5copy5 {
+    background-color    : rgba(42, 44, 47, 1.0);
+    top                 : 0px;
+    height              : 34px;
+    width               : 154px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    border-radius       : 6px;
+    border-style        : solid;
+    border-width        : 2px;
+    border-color        : rgba(249, 142, 0, 1.0);
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .a4thline {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 52px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    margin              : 0;
+    left                : 32px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Roboto", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(239, 242, 245, 1.0);
+    text-align          : left;
+    line-height         : 16.0px;
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .a3rdline {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 52px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    margin              : 0;
+    left                : 32px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Roboto", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(239, 242, 245, 1.0);
+    text-align          : left;
+    line-height         : 16.0px;
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .a2ndline {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 52px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    margin              : 0;
+    left                : 31px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Roboto", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(239, 242, 245, 1.0);
+    text-align          : left;
+    line-height         : 16.0px;
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .a1stline {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 52px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    margin              : 0;
+    left                : 32px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Roboto", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(239, 242, 245, 1.0);
+    text-align          : left;
+    line-height         : 16.0px;
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .arrowopendrawersmall {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 14px;
+    height              : 8px;
+    width               : 15px;
+    position            : absolute;
+    margin              : 0;
+    left                : 117px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .arrowopendrawersmall .background1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 8px;
+    width               : 15px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .arrowopendrawersmall .shape {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 1px;
+    height              : 7px;
+    width               : 15px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 122px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 12px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive .background1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive .oval3copy10 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 100px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 12px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive1 .background1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive1 .oval3copy9 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive2 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 78px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 12px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive2 .background1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilterdeactive2 .oval3copy10 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilteractive {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 55px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 12px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    opacity             : 0.9;
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilteractive .background1 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .checkboxfilteractive .oval3copy10 {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 0px;
+    height              : 9px;
+    width               : 9px;
+    position            : absolute;
+    margin              : 0;
+    left                : 0px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+  }
+  .searchresultsfilters .drawerfilter4pcs .locationfilter .title {
+    background-color    : rgba(255,255,255,0.0);
+    top                 : 9px;
+    height              : auto;
+    width               : auto;
+    position            : absolute;
+    margin              : 0;
+    left                : 12px;
+    -ms-transform       : rotate(0deg); /* IE 9 */
+    -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+    transform           : rotate(0deg);
+    font-family         : "Roboto", Helvetica, Arial, serif;
+    font-weight         : 400;
+    font-style          : normal;
+    font-size           : 14.0px;
+    color               : rgba(238, 243, 245, 1.0);
+    text-align          : justify;
+    line-height         : 16.0px;
+  }
