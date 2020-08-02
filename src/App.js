@@ -25,7 +25,6 @@ function App() {
         </div>
         <SearchResult />
         <Pagenumber />
-
         <Relatedsearches />
         <Elementdefinitionbox />
         <div class="rectangle13"></div>

@@ -7,10 +7,8 @@ const Drawerfilter = props => (
         <div class="background">
         </div>
         <div class="locationfilter">
-            <div class="rectangle5copy9">
-            </div>
-            <div class="rectangle5copy5">
-            </div>
+            <div class="rectangle5copy9"></div>
+            <div class="rectangle5copy5"></div>
             <div class="a4thline">
                 <br />
                 <br />
