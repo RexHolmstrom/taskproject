@@ -1,5 +1,5 @@
 import React from 'react'
-import '../Searchresults/elementsearchresultbox.css'
+import './elementsearchresultbox.css'
 
 const SearchResults = () => (
     <div>

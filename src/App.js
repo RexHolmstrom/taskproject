@@ -5,8 +5,7 @@ import Pagenumber from "../src/components/pagenumbers/pagenumber"
 import Drawerfilter from "../src/components/drawerfilter/drawerfilter"
 import Relatedsearches from '../src/components/relatedsearches/relatedsearches';
 import Elementdefinitionbox from '../src/components//elementdefinitionbox/elementdefinitionbox';
-import SearchResult from '../src/components/Searchresults/SearchResult'
-
+import SearchResults from '../src/components/SearchResults/SearchResults'
 
 
 
@@ -23,8 +22,7 @@ function App() {
         <div class="sortresults">
           SORT RESULTS
         </div>
-        <SearchResult />
-        <Pagenumber />
+        <SearchResults />
         <Relatedsearches />
         <Elementdefinitionbox />
         <div class="rectangle13"></div>
