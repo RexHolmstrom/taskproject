@@ -10,13 +10,13 @@ const Pagenumber = props => (
             <div class="fontsrobotoregular">
                 <div class="background1"></div>
                 <div class="fontsrobotoregular1">
-                    1   3   4   5   6
+                    2   3   4   5
                 </div>
             </div>
             <div class="fontsrobotobold">
                 <div class="background1"></div>
                 <div class="fontsrobotobold1">
-                    2
+                    1
                 </div>
             </div>
             <img src="./img/search-results--filters-shape-copy-2@2x.png" class="shapecopy2" />
