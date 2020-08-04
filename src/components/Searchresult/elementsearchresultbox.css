@@ -1062,4 +1062,10 @@
     text-align          : left;
     letter-spacing      : 1.55px;
     line-height         : 28.0px;
+    transition: transform .2s !important;
+  }
+
+  .profilebox1:hover {
+    cursor: pointer;
+    transform: scale(1.1) !important;
   }
