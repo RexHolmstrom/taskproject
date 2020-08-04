@@ -142,3 +142,33 @@
     text-align          : center;
     line-height         : 18.0px;
   }
+
+  .cgiartist:hover  {
+    cursor: pointer !important;
+    color: rgb(223, 75, 97) !important;
+  }
+
+  .sfxcoordinator:hover  {
+    cursor: pointer !important;
+    color: rgb(223, 75, 97) !important;
+  }
+
+  .motioncaptureartist:hover  {
+    cursor: pointer !important;
+    color: rgb(223, 75, 97) !important;
+  }
+
+  .visualeffects:hover  {
+    cursor: pointer !important;
+    color: rgb(223, 75, 97) !important;
+  }
+
+  .a3danimation:hover  {
+    cursor: pointer !important;
+    color: rgb(223, 75, 97) !important;
+  }
+
+
+
+  
+  
