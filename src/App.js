@@ -5,8 +5,10 @@ import Pagenumber from "../src/components/pagenumbers/pagenumber"
 import Drawerfilter from "../src/components/drawerfilter/drawerfilter"
 import Relatedsearches from '../src/components/relatedsearches/relatedsearches';
 import Elementdefinitionbox from '../src/components//elementdefinitionbox/elementdefinitionbox';
-import SearchResults from '../src/components/SearchResults/SearchResults'
+import SearchResults from '../src/components/Searchresult/SearchResult';
 import PaginacionTabla from '../src/components/Pagination/pagination'
+import Pagination from '../src/components/Pagination/pagination';
+import NamesList from './components/searchfilter/NameList'
 
 
 
@@ -23,6 +25,9 @@ function App() {
         <div class="sortresults">
           SORT RESULTS
         </div>
+        {/* <Pagination /> <- this is the pagination*/}
+        {/* <NamesList /> <- this is filter on the search*/}
+        <SearchResults />
         <Relatedsearches />
         <Elementdefinitionbox />
         <div class="rectangle13"></div>
