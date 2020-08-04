@@ -21,7 +21,7 @@ function App() {
         <div className="elementskeletonbasesearchfield">
           <Elementssearchfieldlogo />
         </div>
-        <Drawerfilter />
+        <Drawerfilter /> {/*<-- this is the "Sort Result" section that I was going to implement in the NameList function. */}
         <div class="sortresults">
           SORT RESULTS
         </div>
