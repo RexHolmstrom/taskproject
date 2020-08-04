@@ -1067,5 +1067,7 @@
 
   .profilebox1:hover {
     cursor: pointer;
-    transform: scale(1.1) !important;
+    transform: scale(1.03) !important;
+    background-color: rgba(255, 255, 255, 0.904) !important;
+
   }
